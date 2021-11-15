@@ -1,4 +1,5 @@
 # Ask for a, b and c integer coefficents and calculate the delta
+print("Solver for ax^2 + bx + c = 0 where a,b,c are integers")
 a = int(input("What is a?"))
 b = int(input("What is b?"))
 c = int(input("What is c?"))
