@@ -7,7 +7,7 @@ delta = b**2 - 4*a*c
 
 # The different cases
 if a == 0:
-    print("That is not a quadratic! The value of a cannnot be zero!")
+    print("That is not a quadratic! The value of a cannot be zero!")
 elif delta > 0:
     print("The roots are", (-b - delta ** 0.5) / (2 * a), "and", (-b + delta ** 0.5) / (2 * a))
 elif delta == 0:
